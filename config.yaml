@@ -1,0 +1,6 @@
+model:
+  type: "random_forest"
+  hyperparameters:
+    n_estimators: 150
+    max_depth: 10
+    min_samples_split: 2
